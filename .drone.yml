@@ -1,5 +1,5 @@
 deploy:
   git_push:
     branch: master
-    remote: git@github.com:vertigobr/java7.git
+    remote: git@github.com:rubens/Liferay62cesMysqlSolr.git
     force: false
