@@ -1,2 +1,2 @@
 #!/bin/bash
-docker build -t vertigo/java7 .
+docker build -t rubens/Liferay62cesMysqlSolr .
